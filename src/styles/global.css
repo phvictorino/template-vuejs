@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap');
+@import url('./transitions.css');
+
+#app {
+  font-family: 'Montserrat', 'Open sans', sans-serif;
+}
+
