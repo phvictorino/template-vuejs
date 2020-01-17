@@ -16,10 +16,10 @@
             name="fade"
             mode="out-in"
           >
-            <v-img
+            <!-- <v-img
               aspect-ratio="2"
               :src="logo"
-            />
+            /> -->
           </transition>
           <v-card>
             <v-card-title class="primary white--text">
@@ -41,9 +41,9 @@
 <script>
 export default {
   computed: {
-    logo () {
-      return require('@/assets/logo.webp')
-    },
+    /* logo () {
+      return require('@/assets/logo.png')
+    }, */
     pageName () {
       console.log(this.$route)
       return this.$route.matched[this.$route.matched.length - 1].props.default.title

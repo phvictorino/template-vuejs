@@ -9,19 +9,19 @@
       class="text-center white--text pb-0"
       cols="12"
     >
-      {{ new Date().getFullYear() }} — <strong>INTRANET CASSEMS</strong>
+      {{ new Date().getFullYear() }} — <strong>EMPRESA</strong>
     </v-col>
     <v-col
       class="text-center white--text py-0"
       cols="12"
     >
-      Rua Antônio Maria Coelho, 6 065
+      Endereço
     </v-col>
     <v-col
       class="text-center white--text py-0"
       cols="12"
     >
-      Vivenda do Bosque | Cep: 79021 - 170
+      Bairro | Cep
     </v-col>
     <v-col
       class="text-center white--text pt-0"

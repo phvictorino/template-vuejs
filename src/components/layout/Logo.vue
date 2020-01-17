@@ -1,7 +1,7 @@
 <template>
   <div class="d-flex flex-column text-uppercase font-weight-thin subtitle-2">
-    <span>cassems</span>
-    <span>intranet</span>
+    <span>Layout</span>
+    <span>VueJS</span>
   </div>
 </template>
 
